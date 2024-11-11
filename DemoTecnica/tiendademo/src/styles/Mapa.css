@@ -1,0 +1,9 @@
+/* src/styles/Mapa.css */
+.mapa {
+  width: 600px;
+  height: 500px;
+  border: 2px solid #1c6ea4;
+  border-radius: 8px;
+  margin: 20px;
+  background-color: #e1f5fe;
+}
